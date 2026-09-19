@@ -1,0 +1,6 @@
+minX=-9
+maxX=9
+minY=-5
+maxY=5
+limits=0
+gameTime = 10
